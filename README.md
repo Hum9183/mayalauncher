@@ -19,7 +19,7 @@ mayalauncher launch
 ```
 
 ## Goがインストールされていない場合
-1. [release](https://github.com/Hum9183/mayalauncher/releases/tag/v0.1.0)からビルド済のファイルをダウンロードする。
+1. [releases](https://github.com/Hum9183/mayalauncher/releases)からビルド済のファイルをダウンロードする。
 2. ダウンロードした.zipを解凍し、**mayalauncher.exe**を任意のディレクトリに配置する。
 3. **mayalauncher.exe**を配置したディレクトリでターミナルを開く。
 
